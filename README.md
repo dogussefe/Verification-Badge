@@ -1,2 +1,0 @@
-# Verification-Badge
-Verification-Badge
